@@ -1,0 +1,28 @@
+h1{
+	text-align:center;
+	padding-left:0px
+	
+}
+header ul {
+	float:right;
+	list-style-type:none;
+}
+continer {
+	padding-left:60px;
+	padding-right:60px;
+	margin-left:60px;
+	margin-right:60px;
+}
+h3#need {
+	margin: 120px 0 40px 0;
+	font-size: 40px;
+    text-align: center;
+	
+}
+row need-this{
+	float:left;
+	padding-left: 100px;
+}
+row#column41 {
+	float: left;
+}   
